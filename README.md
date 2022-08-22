@@ -1,4 +1,4 @@
-# New-York-Arrests-ETL
+# New York Arrests ETL
 
 •	Designed Snowflake dimensional data model schema with Slowly Changing Dimensions (SCD) 
 
